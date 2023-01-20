@@ -1,0 +1,16 @@
+{
+  "name": "server-node",
+  "version": "1.0.0",
+  "description": "```bash npm init --y ```",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "server": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "2.0.20"
+  }
+}
