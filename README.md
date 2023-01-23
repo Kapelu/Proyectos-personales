@@ -13,10 +13,22 @@ _Este fue mi camino..._
 # [FAZT](https://www.youtube.com/@FaztTech)
 
 > Curso JavaScript =>  [🎬](https://www.youtube.com/watch?v=RqQ1d1qEWlE)
+        
+> Javascript - Fetch y Filtrado de Datos (Ejemplo práctico usando Replit) =>  [🎬](https://www.youtube.com/watch?v=DgunJ2jMZwM)
 
 > Curso de Node I =>  [🎬](https://www.youtube.com/watch?v=BhvLIzVL8_o)
 
 > Curso de Node II =>  [🎬](https://www.youtube.com/watch?v=i3OdKwuBjeM)
+
+> Api Rest con Nodejs | ¿Que es Api Rest?, Clase 1 =>  [🎬](https://www.youtube.com/watch?v=wMwON-gwyVM&list=PLL0TiOXBeDaiaFOobfapYZ2ughvAnCTrW&index=1)
+
+> Api Rest con Nodejs | ¿Que es Api Rest?, Clase 2 =>  [🎬](https://www.youtube.com/watch?v=ArdQcI2X1cc&list=PLL0TiOXBeDaiaFOobfapYZ2ughvAnCTrW&index=2)
+
+> Api Rest con Nodejs | ¿Que es Api Rest?, Clase 3 =>  [🎬](https://www.youtube.com/watch?v=YummZ6ZDDo8&list=PLL0TiOXBeDaiaFOobfapYZ2ughvAnCTrW&index=3)
+
+> Api Rest con Nodejs | ¿Que es Api Rest?, Clase 4 =>  [🎬](https://www.youtube.com/watch?v=QNBozn-zPhs&list=PLL0TiOXBeDaiaFOobfapYZ2ughvAnCTrW&index=4)
+
+> JSON (Javascript Object Notation) Curso Completo - Nodejs, & REST APIs =>  [🎬](https://www.youtube.com/watch?v=LJzDHKPLWYw&t)
 
 > Curso de Express I =>  [🎬](https://www.youtube.com/watch?v=BhvLIzVL8_o)
 
@@ -33,6 +45,4 @@ _Este fue mi camino..._
 
 > REST API con Express, Mongodb y Async/Await Parte 5 =>  [🎬](https://www.youtube.com/watch?v=6ADWpwlgCP8&list=PLL0TiOXBeDaiaFOobfapYZ2ughvAnCTrW&index=11)
 
-> REST API con Express, Mongodb y Async/Await Parte 1 =>  [🎬](https://www.youtube.com/watch?v=0XgRqjAAsaU&list=PLL0TiOXBeDaiaFOobfapYZ2ughvAnCTrW&index)
 
-> REST API con Express, Mongodb y Async/Await Parte 1 =>  [🎬](https://www.youtube.com/watch?v=0XgRqjAAsaU&list=PLL0TiOXBeDaiaFOobfapYZ2ughvAnCTrW&index)
