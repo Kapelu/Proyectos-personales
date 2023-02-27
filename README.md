@@ -9,8 +9,8 @@
 <p>
 Este fue mi primera página de perfil, es un extracto de una página que modifique, me fue muy útil para conocer css, como trabaja y saber usar las variables en css.
 </p>
-
-* [Github](https://github.com/Kapelu/proyectos-personales/tree/main/Daniel%20Calderon%20-%20Profile)
+<br />
+<a href='https://github.com/Kapelu/proyectos-personales/tree/main/Daniel%20Calderon%20-%20Profile' target='-blank'>Github</a>
 
 </details>
 
