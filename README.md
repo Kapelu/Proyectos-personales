@@ -7,12 +7,14 @@
 <br />
 <details><summary align='center'><b>Daniel Calderon - Profile</b></summary>
 <p></p>
-<p>
+<p style="display: flex; flex-direction: row; justify-content: space-evenly; text-align:justify">
 Este fue mi primera página de perfil, es un extracto de una página que modifique, me fue muy útil para conocer css, como trabaja y saber usar las variables en css.
 </p>
 <br />
 <div align='center'>
-<a href='https://github.com/Kapelu/proyectos-personales' target="_blank"> Github </a>
+
+<a href='https://github.com/Kapelu/proyectos-personales/tree/main/Daniel%20Calderon%20-%20Profile' target="_blank"> Github </a>
+
 </div>
 </details>
 
