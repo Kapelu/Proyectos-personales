@@ -5,7 +5,13 @@
 </div>
 <br />
 <br />
+<details><summary><b>Daniel Calderon - Profile</b></summary>
+<p>
+Este fue mi primera página de perfil, es un extracto de una página que modifique, me fue muy útil para conocer css, como trabaja y saber usar las variables en css.
+</p>
 
-* [Daniel CAlderon - Profile](https://github.com/Kapelu/proyectos-personales/tree/main/Daniel%20Calderon%20-%20Profile) : Este fue mi primera página de perfil, es un extracto de una página que modifique, me fue muy útil para conocer css, como trabaja y saber usar las variables en css.
+* [Github](https://github.com/Kapelu/proyectos-personales/tree/main/Daniel%20Calderon%20-%20Profile)
 
-* [Profile](https://github.com/Kapelu/proyectos-personales/tree/main/Daniel%20Calderon%20-%20Profile)
+</details>
+
+
