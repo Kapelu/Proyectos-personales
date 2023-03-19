@@ -13,7 +13,7 @@ Este fue mi primera página de perfil, es un extracto de una página que modifiq
 <br />
 <div align='center'>
 
-<a href='https://github.com/Kapelu/proyectos-personales/tree/main/Daniel%20Calderon%20-%20Profile' target="_blank"> Link del Proyecto </a>
+<a href='https://github.com/Kapelu/DanielCalderon-firstProfile' target="_blank"> Link del Proyecto </a>
 
 </div>
 </details>
