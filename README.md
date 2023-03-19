@@ -5,6 +5,21 @@
 </div>
 <br />
 <br />
+<details><summary align='center'><b>Challenge JavaScript</b></summary>
+<p></p>
+<p style="display: flex; flex-direction: row; justify-content: space-evenly; text-align:justify">
+Son preguntas de opciones múltiples, desde lo más básico a lo avanzado. Las respuestas se encuentran en las secciones contraídas debajo de las preguntas, simplemente haz clic en ellas para expandir…
+</p>
+<br />
+<div align='center'>
+
+<a href='https://github.com/Kapelu/Challenge-JavaScript' target="_blank"> Link del Proyecto </a>
+
+</div>
+</details>
+
+---
+<br />
 <details><summary align='center'><b>Daniel Calderon - firstProfile</b></summary>
 <p></p>
 <p style="display: flex; flex-direction: row; justify-content: space-evenly; text-align:justify">
@@ -14,6 +29,22 @@ Este fue mi primera página de perfil, es un extracto de una página que modifiq
 <div align='center'>
 
 <a href='https://github.com/Kapelu/DanielCalderon-firstProfile' target="_blank"> Link del Proyecto </a>
+
+</div>
+</details>
+
+---
+
+<br />
+<details><summary align='center'><b>Challenge React</b></summary>
+<p></p>
+<p style="display: flex; flex-direction: row; justify-content: space-evenly; text-align:justify">
+Son algunas de las preguntas más frecuentes en las entrevistas técnicas de React. Desde lo más básico a lo avanzado. Las respuestas se encuentran en las secciones contraídas debajo de las preguntas…
+</p>
+<br />
+<div align='center'>
+
+<a href='https://github.com/Kapelu/Challenge-React' target="_blank"> Link del Proyecto </a>
 
 </div>
 </details>
