@@ -13,7 +13,7 @@ Este fue mi primera página de perfil, es un extracto de una página que modifiq
 <br />
 <div align='center'>
 
-<a href='https://github.com/Kapelu/proyectos-personales/tree/main/Daniel%20Calderon%20-%20Profile' target="_blank"> Github </a>
+<a href='https://github.com/Kapelu/proyectos-personales/tree/main/Daniel%20Calderon%20-%20Profile' target="_blank"> Link del Proyecto </a>
 
 </div>
 </details>
@@ -31,7 +31,7 @@ Al existir otros navegadores basados en Chromiun, como Brave, Opera, Microsoft E
 <br />
 <div align='center'>
 
-<a href='https://github.com/Kapelu/primera-extension-chrome' target="_blank"> Github </a>
+<a href='https://github.com/Kapelu/primera-extension-chrome' target="_blank"> Link del Proyecto </a>
 
 </div>
 </details>
