@@ -19,21 +19,6 @@ Son preguntas de opciones múltiples, desde lo más básico a lo avanzado. Las r
 </details>
 
 ---
-<br />
-<details><summary align='center'><b>Daniel Calderon - firstProfile</b></summary>
-<p></p>
-<p style="display: flex; flex-direction: row; justify-content: space-evenly; text-align:justify">
-Este fue mi primera página de perfil, es un extracto de una página que modifique, me fue muy útil para conocer css, como trabaja y saber usar las variables en css.
-</p>
-<br />
-<div align='center'>
-
-<a href='https://github.com/Kapelu/DanielCalderon-firstProfile' target="_blank"> Link del Proyecto </a>
-
-</div>
-</details>
-
----
 
 <br />
 <details><summary align='center'><b>Challenge React</b></summary>
@@ -68,3 +53,16 @@ Al existir otros navegadores basados en Chromiun, como Brave, Opera, Microsoft E
 </details>
 
 ---
+<br />
+<details><summary align='center'><b>App ToDo List [HTML, CSS y Javascript]</b></summary>
+<p></p>
+<p style="display: flex; flex-direction: row; justify-content: space-evenly; text-align:justify">
+
+</p>
+<br />
+<div align='center'>
+
+<a href='https://github.com/Kapelu' target="_blank"> Link del Proyecto </a>
+
+</div>
+</details>
