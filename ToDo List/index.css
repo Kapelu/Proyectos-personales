@@ -1,0 +1,74 @@
+/*$ ********** Variables de colores y fuente ********** */
+:root {
+	/*# Colores */
+	--white: #fafafb;
+	--purple: #9a67ea;
+	--blue-light: #04d4c3;
+	--blue-dark: #2a73c2;
+	--green: #2c7b90;
+	/*# Fuente */
+	--font: 'Poppins', sans-serif;
+}
+
+/*$ ********** Scrollbar ********** */
+
+::-webkit-scrollbar {
+	width: 0px;
+}
+
+/*$ ********** Reseteo Tank you Paul Irish ********** */
+
+html {
+	box-sizing: border-box;
+    font-size: 16px;
+	scroll-behavior: smooth;
+}
+
+*,
+*::after,
+*::before {
+	box-sizing: inherit;
+}
+
+body {
+	margin: 0;
+	background: linear-gradient(to bottom, var(--purple), var(--blue-light));
+	height: 100vh;
+	overflow-x: hidden;
+	font-family: var(--font);
+}
+
+/*$ ********** Perfil ********** */
+
+.perfil h1 {
+    color: var(--white)
+}
+
+.perfil span {
+    color: var(--white);
+    letter-spacing: .18rem;
+}
+
+#fecha {
+    color: var(--white);
+    padding:4rem 0 .2rem 0;
+}
+
+/*$ ********** Agregar Tarea ********** */
+
+.agregar-tarea{
+    background-color: var(--white);
+    border-radius: 1rem;
+    height: 3.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    gap:  3rem;
+}
+
+.agregar-tarea input{
+}
+
+.agregar-tarea i{
+}
