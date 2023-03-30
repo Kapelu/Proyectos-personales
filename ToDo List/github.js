@@ -6,9 +6,9 @@ const botonEnter = document.querySelector('#boton-enter')
 const check = 'fa-check-circle'
 const uncheck = 'fa-circle'
 const lineThrough = 'line-through'
-let LIST
 
 let id // para que inicie en 0 cada tarea tendra un id diferente
+let LIST
 
 //creacion de fecha actualizada
 
