@@ -7,8 +7,8 @@ const check = 'fa-check-circle'
 const uncheck = 'fa-circle'
 const lineThrough = 'line-through'
 
-let id = 0 // para que inicie en 0 cada tarea tendra un id diferente
-let LIST = []
+let id // para que inicie en 0 cada tarea tendra un id diferente
+let LIST
 
 //creacion de fecha actualizada
 
@@ -124,3 +124,24 @@ lista.addEventListener('click', function (event) {
 	}
 	localStorage.setItem('ToDo', JSON.stringify(LIST))
 })
+
+/*
+$ ********** LocalStorage getItem **********
+*/
+
+let data = localStorage.getItem('ToDo')
+if (data) {
+	LIST = JSON.parse(data)
+	console.log(LIST)
+	id = LIST.length
+	cargarLista(LIST)
+} else {
+	LIST = []
+	id = 0
+}
+
+function cargarLista(array) {
+	array.forEach(function (item) {
+		agregarTarea(item.nombre, item.id, item.realizado, item.eliminado)
+	})
+}
