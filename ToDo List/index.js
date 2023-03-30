@@ -7,7 +7,7 @@ const check = 'fa-check-circle'
 const uncheck = 'fa-circle'
 const lineThrough = 'line-through'
 
-let id=0 // para que inicie en 0 cada tarea tendra un id diferente
+let id = 0 // para que inicie en 0 cada tarea tendra un id diferente
 let LIST = []
 
 //creacion de fecha actualizada
@@ -24,12 +24,10 @@ $ ********** funcion Agregar Tarea **********
 */
 
 function agregarTarea(tarea, id, realizado, eliminado) {
-	
 	if (eliminado) return // si existe eliminado es true si no es false
-	
+
 	const REALIZADO = realizado ? check : uncheck
 	const LINE = realizado ? lineThrough : ''
-
 
 	const elemento = `
                         <li id="elemento">
@@ -71,11 +69,10 @@ function tareaEliminada(element) {
 $ ********** Boton de Agregar Tarea **********
 */
 
-
 botonEnter.addEventListener('click', () => {
 	const tarea = input.value
 	if (tarea) {
-		agregarTarea(tarea,id,false,false)
+		agregarTarea(tarea, id, false, false)
 		LIST.push({
 			nombre: tarea,
 			id: id,
@@ -83,6 +80,7 @@ botonEnter.addEventListener('click', () => {
 			eliminado: false,
 		})
 	}
+	localStorage.setItem('ToDo', JSON.stringify(LIST))
 	input.value = ''
 	id++
 	console.log(LIST)
@@ -92,14 +90,16 @@ document.addEventListener('keyup', function (event) {
 	if (event.key == 'Enter') {
 		const tarea = input.value
 		if (tarea) {
-			agregarTarea(tarea,id,false,false)
+			agregarTarea(tarea, id, false, false)
 			LIST.push({
-			nombre: tarea,
-			id: id,
-			realizado: false,
-			eliminado: false,
-		})
+				nombre: tarea,
+				id: id,
+				realizado: false,
+				eliminado: false,
+			})
 		}
+		localStorage.setItem('ToDo', JSON.stringify(LIST))
+
 		input.value = ''
 		id++
 		console.log(LIST)
@@ -107,20 +107,20 @@ document.addEventListener('keyup', function (event) {
 })
 
 /*
-$ ********** Check de Lista **********
+$ ********** Actualización Check de Lista **********
 */
 
-lista.addEventListener('click', function (event){
+lista.addEventListener('click', function (event) {
 	const element = event.target
 	const elementData = element.attributes.data.value
 	console.log(element)
 	console.log(element.attributes)
 	console.log(element.attributes.data)
-	console.log(element.attributes.data.value) 
-	if(elementData === 'realizado'){
+	console.log(element.attributes.data.value)
+	if (elementData === 'realizado') {
 		tareaRealizada(element)
-	}
-	else if(elementData === 'eliminado'){
+	} else if (elementData === 'eliminado') {
 		tareaEliminada(element)
 	}
+	localStorage.setItem('ToDo', JSON.stringify(LIST))
 })
