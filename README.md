@@ -62,7 +62,7 @@ Al existir otros navegadores basados en Chromiun, como Brave, Opera, Microsoft E
 <br />
 <div align='center'>
 
-<a href='https://github.com/Kapelu/proyectos-personales/tree/main/ToDo%20List' target="_blank"> Link del Proyecto </a>
+<a href='https://github.com/Kapelu/ToDo-List' target="_blank"> Link del Proyecto </a>
 
 </div>
 </details>
